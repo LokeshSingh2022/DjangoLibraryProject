@@ -8,4 +8,5 @@ The project is a step by step Django project creation to reproduce the managemen
 4. start the Django web server ```python library-project\libraryproject\manage.py runserver```
 5. open browser and use URL 127.0.0.1:8000 for the homepage and 127.0.0.1:8000/admin to access to admin panel
 
-- You can follow the guide DjangoLibraryProject-ITA doc file to develop by yourself
+## Made By:- 
+Lokesh Singh Rajwar
